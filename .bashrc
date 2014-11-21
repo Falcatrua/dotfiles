@@ -113,5 +113,9 @@ if ! shopt -oq posix; then
   fi
 fi
 
-utorrent -settingspath /opt/utorrent-server-v3_0/ &
+# my permanent aliases
+alias meusDocumentos='cd "/mnt/A0A433F9A433D090/Documents and Settings/Marcelo/Meus documentos"'
+alias utorrent='utorrent -settingspath /opt/utorrent-server-v3_0/ &'
+alias speakTest='espeak "This is the newest bash version"'
+export PS1='\u@\h:'
 
