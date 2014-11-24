@@ -1,0 +1,13 @@
+{
+	"installed_packages":
+	[
+		"Boron Color Scheme",
+		"Git",
+		"SublimeLinter",
+		"SublimeLinter-contrib-mlint",
+		"SublimeLinter-cpplint",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pylint",
+		"TrailingSpaces"
+	]
+}
